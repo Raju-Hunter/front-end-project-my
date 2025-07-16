@@ -24,3 +24,23 @@ header {
     cursor: pointer;
     transition: 0.1s;
 }
+#highlights-section{
+    border: 2px solid orange;
+    width: 500px;
+    margin: 0 auto;
+}
+#highlights-section > h2 {
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#highlights-section > p{
+    border: 2px solid red;
+    margin: 0 auto;
+    width: 50%;
+    color: rgb(163, 142, 142);
+    text-align: center;
+    margin-bottom: 20px;
+
+}
